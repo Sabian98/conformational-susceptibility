@@ -1,0 +1,130 @@
+file,line,kind,was
+bender_reanalysis/bender_common.py,67,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/TODO_T2_trajectory_loader.py,57,path,'/Users/taseefrahman/Downloads/Scripts/bender_reanalysis'
+code/TODO_T2_trajectory_loader.py,70,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/TODO_T2_trajectory_loader.py,75,path,'/Users/taseefrahman/Downloads/Scripts/CALVADOS IDP/input/residues_CALVADOS2.csv'
+code/TODO_T2_trajectory_loader.py,77,path,'~/Downloads/Scripts/CALVADOS IDP/input/residues_CALVADOS2.csv'
+code/acetyl_agreement_analysis.py,20,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT/total_response'
+code/acetyl_heat_analysis.py,27,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT/total_response'
+code/acetyl_heat_analysis.py,29,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/basin_susceptibility.py,51,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/basin_susceptibility.py,55,path,f'
+code/basin_susceptibility.py,56,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/MPIPI/mpipi_sim/300k_runs/Mpipi 300k '
+code/basin_susceptibility.py,57,path,'/Volumes/User Homes/Nu Project/BENDER-MT/mpipi_compact'
+code/capped_model.py,24,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/chi_factor_split.py,34,path,'/Users/taseefrahman/Downloads/Scripts/bender_reanalysis'
+code/chi_factor_split.py,37,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/contact_count_check.py,44,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/contact_count_check.py,48,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/MPIPI/mpipi_sim/300k_runs/Mpipi 300k '
+code/contact_count_check.py,49,path,'/Volumes/User Homes/Nu Project/BENDER-MT/mpipi_compact'
+code/csat_sensitivity.py,33,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/era_cal_check.py,1,path,"""""""
+era_cal_check.py — check of the GAIVI_ERACAL inputs (make_era_calibrated_inputs.py) be"
+code/era_cal_check.py,130,path,'~/Downloads/Scripts/GAIVI_ERACAL'
+code/era_direct.py,48,path,'~/Downloads/Scripts/GAIVI_ERA'
+code/fig_acetyl.py,37,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/fig_apps.py,35,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/fig_extra.py,35,path,'~/Downloads/Scripts/bender_reanalysis'
+code/fig_extra.py,37,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/fig_extrapolation.py,37,path,'~/Downloads/Scripts/CALVADOS IDP/input_wuttke/wuttke2014_constructs.fasta'
+code/fig_extrapolation.py,38,path,'~/Downloads/Scripts/GAIVI_HELDOUT/calvados/forms.fasta'
+code/fig_forcing.py,1,path,"""""""
+fig_forcing.py — how the hydration forcing acts on one stored ensemble (Fig. 2), drawn"
+code/fig_forcing.py,33,path,'~/Downloads/Scripts/bender_reanalysis'
+code/fig_heldout.py,37,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/fig_heldout.py,124,path,'~/Downloads/Scripts/GAIVI_HELDOUT/datasets.tsv'
+code/fig_lineage.py,22,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT/lineage_test'
+code/fig_manuscript.py,24,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/fig_manuscript2.py,51,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/fig_manuscript2.py,188,path,'~/Downloads/Scripts/bender_reanalysis'
+code/fig_overview.py,1,path,"""""""
+fig_overview.py — Fig. 1 of the manuscript (2026-10-30), the larger scheme of the pape"
+code/fig_overview.py,33,path,'~/Downloads/Scripts/bender_reanalysis'
+code/fig_overview_poster.py,1,path,"""""""
+fig_overview_poster.py — poster version of Fig. 1 (2026-10-31), for talks and posters,"
+code/fig_overview_poster.py,33,path,'~/Downloads/Scripts/bender_reanalysis'
+code/fig_page4.py,34,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/fig_slides_deck.py,1,path,"""""""
+fig_slides_deck.py — 16:9 talk slides on the BENDER-MT paper (2026-10-30), not used in"
+code/fig_slides_deck.py,35,path,'~/Downloads/Scripts/bender_reanalysis'
+code/fig_slides_deck.py,40,path,'/Volumes/User Homes/Nu Project/BENDER-MT/slides'
+code/fig_supplementary.py,48,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/forcing_role_analysis.py,32,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/forcing_role_assemble_capped.py,25,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT/total_response'
+code/heat_crosses_analysis.py,27,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/heat_crosses_analysis.py,29,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/heat_crosses_crossmodel.py,22,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT/total_response'
+code/heat_crosses_crossmodel.py,23,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/heat_crosses_ddof_fix.py,20,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT/total_response'
+code/heldout_analysis.py,50,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/heldout_analysis.py,53,path,'~/Downloads/Scripts/GAIVI_HELDOUT'
+code/lineage_test.py,36,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT/lineage_test'
+code/make_compact_mpipi_fasta.py,22,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/make_compact_mpipi_fasta.py,23,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT_MPIPI/mpipi_300
+code/make_compact_mpipi_fasta.py,24,path,'/Users/taseefrahman/Downloads/Scripts/mpipi_sim/input/compact_mpipi_300K.fasta'
+code/make_era_calibrated_inputs.py,1,path,"""""""
+make_era_calibrated_inputs.py — GAIVI inputs for direct simulations of the ER-NTD Ser1"
+code/make_era_calibrated_inputs.py,45,path,'~/Downloads/Scripts/GAIVI_ERA'
+code/make_era_calibrated_inputs.py,78,path,'~/Downloads/Scripts/GAIVI_ERACAL'
+code/make_heldout_inputs.py,1,path,"""""""
+make_heldout_inputs.py — GAIVI inputs for the held-out test of the calibrated heat res"
+code/make_heldout_inputs.py,44,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/make_heldout_inputs.py,46,path,'~/Downloads/Scripts/GAIVI_PAGE4'
+code/make_heldout_inputs.py,47,path,'~/Downloads/Scripts/CALVADOS IDP/input/residues_CALVADOS2.csv'
+code/make_heldout_inputs.py,128,path,'~/Downloads/Scripts/GAIVI_HELDOUT'
+code/make_page4_calibrated_inputs.py,1,path,"""""""
+make_page4_calibrated_inputs.py — GAIVI inputs for direct simulations of the PAGE4 pho"
+code/make_page4_calibrated_inputs.py,46,path,'~/Downloads/Scripts/GAIVI_PAGE4'
+code/make_page4_calibrated_inputs.py,73,path,'~/Downloads/Scripts/GAIVI_PAGE4CAL'
+code/make_page4_inputs.py,1,path,"""""""
+make_page4_inputs.py — GAIVI inputs for direct simulations of the PAGE4 phosphoforms ("
+code/make_page4_inputs.py,42,path,'~/Downloads/Scripts/CALVADOS IDP/input/residues_CALVADOS2.csv'
+code/make_page4_inputs.py,66,path,'~/Downloads/Scripts/GAIVI_PAGE4'
+code/make_pnt_calibrated_inputs.py,1,path,"""""""
+make_pnt_calibrated_inputs.py — GAIVI inputs for direct simulations of PNt under the c"
+code/make_pnt_calibrated_inputs.py,65,path,'~/Downloads/Scripts/GAIVI_PNTCAL'
+code/mpipi_compact_sticker_check.py,36,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT_MPIPI'
+code/mpipi_fdt_validate.py,27,path,'/Users/taseefrahman/Downloads/Scripts/bender_reanalysis'
+code/mpipi_fdt_validate.py,31,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT_MPIPI'
+code/mpipi_temperature_hpc.py,47,path,'/Users/taseefrahman/Downloads/Scripts/bender_reanalysis'
+code/mutation_scan_analysis.py,27,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/mutation_scan_compare.py,22,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT/total_response/
+code/ogt_buffering.py,1,path,"""""""
+ogt_buffering.py — do the composition shifts with growth temperature offset each other"
+code/ogt_response.py,33,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Thermal adaptation'
+code/page4_cal_check.py,1,path,"""""""
+page4_cal_check.py — check of the GAIVI_PAGE4CAL inputs (make_page4_calibrated_inputs."
+code/page4_cal_check.py,103,path,'~/Downloads/Scripts/GAIVI_PAGE4CAL'
+code/page4_direct.py,52,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/page4_direct.py,53,path,'~/Downloads/Scripts/GAIVI_PAGE4'
+code/page4_phosphoforms.py,98,path,'~/Downloads/Scripts/CALVADOS IDP/input/residues_CALVADOS2.csv'
+code/page4cal_analysis.py,38,path,'~/Downloads/Scripts/GAIVI_PAGE4CAL/mpipi'
+code/page4cal_analysis.py,54,path,'~/Downloads/Scripts/GAIVI_PAGE4CAL/calvados'
+code/phospho_direct_ceiling.py,23,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/phospho_heat_direct.py,48,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/phospho_heat_direct.py,49,path,'/Volumes/User Homes/Nu Project/BENDER-DYN/phospho_direct/300K'
+code/phospho_heat_direct.py,50,path,'~/Downloads/Scripts/CALVADOS IDP/input_phospho'
+code/pnt_cal_check.py,1,path,"""""""
+pnt_cal_check.py — check of the GAIVI_PNTCAL inputs (make_pnt_calibrated_inputs.py) be"
+code/pnt_cal_check.py,95,path,'~/Downloads/Scripts/GAIVI_PNTCAL'
+code/recharged_compare.py,31,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/recharged_compare.py,32,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/recharged_traj_analysis.py,26,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/recharged_traj_analysis.py,31,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/residual_sequence_check.py,33,path,'/Volumes/User Homes/Nu Project/BENDER-MT'
+code/residual_sequence_check.py,36,path,'~/Downloads/Scripts/CALVADOS IDP/input_wuttke/wuttke2014_constructs.fasta'
+code/tea_analysis.py,26,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/tea_analysis.py,27,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/tea_crossff.py,47,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/tea_crossff.py,49,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/MPIPI/mpipi_sim/300k_runs/Mpipi 300k '
+code/tea_crossff.py,50,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/MPIPI/mpipi_sim/300k_runs/Mpipi SAXS'
+code/tea_crossff.py,52,path,'/Volumes/User Homes/Nu Project/MPIPI Recharged/300K'
+code/tea_crossff_compare.py,25,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis'
+code/tea_crossff_compare.py,28,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/tea_hyd_check.py,39,path,'/Volumes/User Homes/Nu Project/MPIPI Recharged/300K'
+code/tea_hyd_check.py,69,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/MPIPI/mpipi_sim'
+code/tea_hyd_variants.py,28,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Wuttke2014/calibration'
+code/test2b_cross_model_residual.py,46,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Traj Level Analysis/Analysis_FDT_MPIPI'
+code/thermal_predict.py,43,path,'/Volumes/User Homes/Nu Project/BENDER-MT/Thermal adaptation'
+code/thermal_predict.py,46,path,'/Volumes/User Homes/Nu Project/BENDER-BIO/BENDER_BIO.csv'
+code/thermal_predict.py,47,path,'~/Downloads/Scripts/CALVADOS IDP/input/residues_CALVADOS2.csv'
