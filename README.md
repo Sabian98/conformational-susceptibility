@@ -44,7 +44,7 @@ The figure scripts read tables written by the analysis scripts. The header of ea
 Simulation inputs and run scripts of the proteome simulations are in [Sabian98/BENDER](https://github.com/Sabian98/BENDER).
 Trajectories are on Hugging Face: [CALVADOS-2](https://huggingface.co/datasets/taseef/BENDER),
 [Mpipi-Recharged](https://huggingface.co/datasets/taseef/MPIPI-Recharged), and [Mpipi-GG](https://huggingface.co/datasets/taseef/BENDER-MPIPI).
-The derived data that the analysis scripts read, such as per-frame energies and analysis tables, will be deposited with a DOI.
+The tables that the figure scripts read are in `figure_data/`, in the project's folder layout, with a manifest (see `figure_data/README.md`). Per-frame caches are not included.
 
 ## Running
 

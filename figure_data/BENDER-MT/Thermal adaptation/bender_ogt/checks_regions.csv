@@ -1,0 +1,37 @@
+check,term,n,slope_SD_per_10C,ci_lo,ci_hi,frac_positive,wilcoxon_p
+"proteome regions, organism means, clade fixed effects",kappa,42,0.11233993278524912,-0.045833902215926155,0.2525001780011765,,
+"proteome regions, organism means, clade fixed effects",FCR,42,-0.07217796236718221,-0.2321708397311198,0.11283235741605822,,
+"proteome regions, organism means, clade fixed effects",absNCPR,42,-0.010055334970007353,-0.21641204453137863,0.2257578396861893,,
+"proteome regions, organism means, clade fixed effects",f_DEK,42,-0.13586769982312236,-0.27949780987534834,0.03081679394783427,,
+"proteome regions, organism means, clade fixed effects",f_pi,42,0.17629606424830177,0.016440802073054036,0.305831171471687,,
+"proteome regions, organism means, clade fixed effects",f_R,42,0.18735256096941744,0.018416208564394146,0.32489113692737775,,
+"proteome regions, organism means, clade fixed effects",f_K,42,-0.17950691977732083,-0.34217683520866604,0.007158444368319853,,
+"proteome regions, organism means, clade fixed effects",f_E,42,0.1977481341885927,-0.03650261223521304,0.3958310758868478,,
+"proteome regions, organism means, clade fixed effects",f_D,42,-0.30060559622890026,-0.42298736501804435,-0.18331520721191005,,
+"proteome regions, organism means, clade fixed effects",f_S,42,-0.22300560560170293,-0.35200979511722447,-0.12328339911169738,,
+"proteome regions, organism means, clade fixed effects",f_P,42,0.2729993807120121,0.1662447894606077,0.3575076511516654,,
+"proteome regions, organism means, clade fixed effects",f_G,42,0.07516542588473747,-0.058849766728632506,0.2729494818494712,,
+"ortholog-matched families, thermophile minus mesophile (region SD)",kappa,3194,0.048173202751610605,,,0.5300563556668754,0.0005498555751867744
+"ortholog-matched families, thermophile minus mesophile (region SD)",FCR,3194,-0.03424214650489574,,,0.47557921102066375,0.027221276915209716
+"ortholog-matched families, thermophile minus mesophile (region SD)",absNCPR,3194,-0.04393588484390919,,,0.46743894802755165,1.4294950330417076e-05
+"ortholog-matched families, thermophile minus mesophile (region SD)",f_DEK,3194,-0.035295602176539334,,,0.4733876017532874,0.011852646465755129
+"ortholog-matched families, thermophile minus mesophile (region SD)",f_pi,3194,-0.056930345281980224,,,0.4511584220413275,2.3142747698864255e-05
+"ortholog-matched families, thermophile minus mesophile (region SD)",f_R,3194,-0.0026496857483303306,,,0.4834063869755792,0.6107229393413677
+"ortholog-matched families, thermophile minus mesophile (region SD)",f_K,3194,0.0,,,0.4733876017532874,0.09967970111817347
+"ortholog-matched families, thermophile minus mesophile (region SD)",f_E,3194,0.0037436910980915917,,,0.5012523481527865,0.17141103360349852
+"ortholog-matched families, thermophile minus mesophile (region SD)",f_D,3194,-0.053534393451872955,,,0.4511584220413275,1.3957576225445428e-08
+"ortholog-matched families, thermophile minus mesophile (region SD)",f_S,3194,-0.147454084124366,,,0.41202254226675017,1.7548038579484491e-32
+"ortholog-matched families, thermophile minus mesophile (region SD)",f_P,3194,0.07540770500546035,,,0.5356919223544145,1.1907695001820156e-09
+"ortholog-matched families, thermophile minus mesophile (region SD)",f_G,3194,0.19003208537131377,,,0.6167814652473388,4.0192496548043634e-57
+"ortholog-matched families, bacteria only (SD)",kappa,279,-0.030809105513003577,,,0.4838709677419355,0.16873874570931113
+"ortholog-matched families, bacteria only (SD)",FCR,279,0.1080008867853858,,,0.5663082437275986,0.005553659728910059
+"ortholog-matched families, bacteria only (SD)",absNCPR,279,0.05864506764315315,,,0.5161290322580645,0.584068734061174
+"ortholog-matched families, bacteria only (SD)",f_DEK,279,-0.04532248945835604,,,0.4838709677419355,0.29380572655616477
+"ortholog-matched families, bacteria only (SD)",f_pi,279,0.29175834075726437,,,0.6272401433691757,3.276051772995565e-10
+"ortholog-matched families, bacteria only (SD)",f_R,279,0.3336302471951412,,,0.6272401433691757,5.349141156811397e-11
+"ortholog-matched families, bacteria only (SD)",f_K,279,-0.11269738669277914,,,0.3655913978494624,0.00024339015636837738
+"ortholog-matched families, bacteria only (SD)",f_E,279,0.25424395320739435,,,0.6272401433691757,6.5594499052452e-10
+"ortholog-matched families, bacteria only (SD)",f_D,279,-0.37478870215807303,,,0.3118279569892473,7.833525096541722e-11
+"ortholog-matched families, bacteria only (SD)",f_S,279,-0.08101077972547781,,,0.44802867383512546,0.04346240194848283
+"ortholog-matched families, bacteria only (SD)",f_P,279,0.13356013232767283,,,0.5663082437275986,0.003484359177491748
+"ortholog-matched families, bacteria only (SD)",f_G,279,0.0821433355519164,,,0.5555555555555556,0.03272338688876283

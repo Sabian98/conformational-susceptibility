@@ -1,0 +1,10 @@
+pi_third,DEK_third,Bacteria,Fungi,Mammals,Plants,Protists,Viruses
+low,low,156,66,156,66,159,69
+low,mid,259,147,112,127,99,100
+low,high,143,60,108,197,116,42
+mid,low,475,433,305,423,150,143
+mid,mid,594,412,212,321,160,185
+mid,high,130,59,54,48,55,32
+high,low,592,149,208,738,57,226
+high,mid,270,79,51,214,43,113
+high,high,23,12,19,10,8,14
